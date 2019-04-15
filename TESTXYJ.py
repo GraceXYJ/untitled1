@@ -23,4 +23,4 @@ while True:##修改测试#####################3
         e4 = abs(int(user_input) - d4)
         e = min(e1, e2, e3, e4)
         Qnum = Qnum + e
-        print(int(Qnum))
+        print(int(Qnum))#   ********
